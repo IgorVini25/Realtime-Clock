@@ -21,4 +21,4 @@
 
 ## 🔖 License
 
-### The Project license are MIT. See [LICENSE](LICENSE.md) file for more details.
+### The Project license are MIT. See [LICENSE](LICENSE) file for more details.
