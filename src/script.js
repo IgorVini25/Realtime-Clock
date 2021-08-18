@@ -46,7 +46,7 @@ async function atualizer() {
   date.innerText = `${anoData.day} / ${anoData.month} / ${anoData.year} `
   hour.innerText = `${horaData.hour} : ${horaData.minutes} : ${horaData.seconds}`
 
-  await sleep(100)
+  await sleep(500)
 
   requestAnimationFrame(atualizer)
 }
