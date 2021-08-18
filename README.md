@@ -19,10 +19,6 @@
 
 ---
 
-<h2> 🔖 License <h2>
+## 🔖 License
 
-<h3>
-
-The Project license are MIT. See [LICENSE](LICENSE.md) file for more details.
-
-</h3>
+### The Project license are MIT. See [LICENSE](LICENSE.md) file for more details.
