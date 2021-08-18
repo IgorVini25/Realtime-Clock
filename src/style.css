@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  color: #181a1b;
+  background: #181a1b;
+  margin-top: 15rem;
+}
+
+#date,
+#hour {
+  padding: 1rem 2.3rem;
+  background: white;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Open-sans', sans-serif;
+}
+
+#date {
+  margin-bottom: 1rem;
+}
